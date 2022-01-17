@@ -21,4 +21,5 @@ Although certain criteria was not met when writing code i was able to verify and
 Aditional info:
 
 https://cmps-people.ok.ubc.ca/rlawrenc/teaching/301/notes/301_4_Excel_VBA.pdf
+
 https://github.com/Wall-E28 - Extract, use and revision of code - VBA SCRIPT
